@@ -1,5 +1,5 @@
 
-This code implements the method for learning the drift decomposition into gradient and orthogonal components from instanton trajectories using the SINDy algorithm
+Repository with codes to implement the method for learning the drift decomposition into gradient and orthogonal components from instanton trajectories using the SINDy algorithm
 according to the paper Quasi-Potential of Stochastic Dynamics via Instanton-Guided
 Sparse Identification.
 
