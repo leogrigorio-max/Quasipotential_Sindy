@@ -35,7 +35,7 @@ lib = "1, x, y, x.^2, y.^2, x.*y, x.^3, y.^3, x.^2.*y, x.*y.^2, x.^4, y.^4, x.^3
 lib = split(lib,", ");
 
 % == score: quadratic error between training and validation
-score = zeros(K,2*length(lib)); %2=columns of F, 15=columns of Theta(#of library functions) -gives the size of coeff matrix
+score = zeros(K,2*length(lib)); %2=columns of F
 
 % == K-fold cross validation
 for n = 1:K
