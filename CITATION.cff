@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Quasi-Potential of Stochastic Dynamics via Instanton-Guided Sparse Identification"
+authors:
+  - family-names: Grigorio
+    given-names: Leo
+  - family-names: Alqahtani
+    given-names: Mnerh
+repository-code: "https://github.com/leogrigorio-max/Quasipotential_Sindy"
